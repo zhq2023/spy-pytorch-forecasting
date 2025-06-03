@@ -18,7 +18,7 @@ Run the main notebooknotebook 'SPY-neural-nets-with-PyTorch.ipynb' (sample data 
 
 
 ## Data Setup
-- Sample Data: Included spy_daily_sample.csv in /data folder
+- Sample Data: Included spy_ample.csv in /data folder
 - Full Dataset:
 📌 Download from Alpha Vantage
 🔍 Step-by-step guide:
