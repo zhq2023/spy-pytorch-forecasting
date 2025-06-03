@@ -10,10 +10,10 @@ Run the main notebooknotebook 'SPY-neural-nets-with-PyTorch.ipynb' (sample data 
 ---
    
 ## 📂 Repository Structure
-├── SPY-neural-nets-with-PyTorch.ipynb
-├── data
-├── figures
-├── README.md 
+- SPY-neural-nets-with-PyTorch.ipynb
+- data
+- figures
+- README.md 
 
 ---
 
