@@ -2,12 +2,12 @@
 
 **Code for the Substack article:** [Building Neural Nets with PyTorch to Forecast SPY Technical Indicators](https://zhqpang.substack.com/p/building-neural-nets-with-pytorch).
 
----
+
 
  **How to use**:
 Run the main notebooknotebook 'SPY-neural-nets-with-PyTorch.ipynb' (sample data included)
 
----
+
    
 ## 📂 Repository Structure
 - SPY-neural-nets-with-PyTorch.ipynb
@@ -15,7 +15,7 @@ Run the main notebooknotebook 'SPY-neural-nets-with-PyTorch.ipynb' (sample data 
 - figures
 - README.md 
 
----
+
 
 ## Data Setup
 - Sample Data: Included spy_daily_sample.csv in /data folder
