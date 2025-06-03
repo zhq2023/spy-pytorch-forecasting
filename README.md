@@ -19,6 +19,8 @@ Run the main notebooknotebook 'SPY-neural-nets-with-PyTorch.ipynb' (sample data 
 
 ## Data Setup
 - Sample Data: Included spy_daily_sample.csv in /data folder
-- For step-by-step instructions on fetching SPY data, see:
+- Full Dataset:
+📌 Download from Alpha Vantage
+🔍 Step-by-step guide:
 👉 [Fetching and Visualizing SPY Intraday Data on Substack](https://zhqpang.substack.com/p/fetching-and-visualizing-spy-intraday)
 
